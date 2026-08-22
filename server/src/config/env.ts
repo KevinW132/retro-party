@@ -8,7 +8,7 @@ function readInt(name: string, fallback: number): number {
 }
 
 export const env = {
-  port: readInt('SERVER_PORT', 4000),
+  port: readInt('PORT', readInt('SERVER_PORT', 4000)),
   corsOrigin: process.env.CLIENT_ORIGIN?.split(',').map((s) => s.trim()) ?? [
     'http://localhost:5173',
   ],
