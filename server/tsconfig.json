@@ -12,8 +12,8 @@
     "outDir": "dist",
     "baseUrl": ".",
     "paths": {
-      "@retro-party/shared": ["../shared/src/index.ts"],
-      "@retro-party/shared/*": ["../shared/src/*"]
+      "@retro-party/shared": ["../shared/dist/index.d.ts"],
+      "@retro-party/shared/*": ["../shared/dist/*"]
     }
   },
   "include": ["src"]
