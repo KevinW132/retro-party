@@ -8,3 +8,6 @@ npm-debug.log*
 *.tsbuildinfo
 /client/vite.config.js
 /client/vite.config.d.ts
+
+.vercel
+.env*
