@@ -1,0 +1,22 @@
+[
+  {"id":"s-01","title":"Bohemian Rhapsody","artist":"Queen","year":1975,"genre":"Rock","difficulty":"medium"},
+  {"id":"s-02","title":"Shape of You","artist":"Ed Sheeran","year":2017,"genre":"Pop","difficulty":"easy"},
+  {"id":"s-03","title":"Billie Jean","artist":"Michael Jackson","year":1982,"genre":"Pop","difficulty":"medium"},
+  {"id":"s-04","title":"Despacito","artist":"Luis Fonsi","year":2017,"genre":"Reggaetón","difficulty":"easy"},
+  {"id":"s-05","title":"Bad Guy","artist":"Billie Eilish","year":2019,"genre":"Pop","difficulty":"easy"},
+  {"id":"s-06","title":"Smells Like Teen Spirit","artist":"Nirvana","year":1991,"genre":"Grunge","difficulty":"medium"},
+  {"id":"s-07","title":"Hotel California","artist":"Eagles","year":1976,"genre":"Rock","difficulty":"hard"},
+  {"id":"s-08","title":"Uptown Funk","artist":"Mark Ronson ft. Bruno Mars","year":2014,"genre":"Funk","difficulty":"easy"},
+  {"id":"s-09","title":"Rolling in the Deep","artist":"Adele","year":2010,"genre":"Soul","difficulty":"medium"},
+  {"id":"s-10","title":"Blinding Lights","artist":"The Weeknd","year":2019,"genre":"Synthpop","difficulty":"easy"},
+  {"id":"s-11","title":"Imagine","artist":"John Lennon","year":1971,"genre":"Rock","difficulty":"medium"},
+  {"id":"s-12","title":"Someone Like You","artist":"Adele","year":2011,"genre":"Pop","difficulty":"medium"},
+  {"id":"s-13","title":"Levitating","artist":"Dua Lipa","year":2020,"genre":"Pop","difficulty":"easy"},
+  {"id":"s-14","title":"Sweet Child O' Mine","artist":"Guns N' Roses","year":1987,"genre":"Rock","difficulty":"hard"},
+  {"id":"s-15","title":"Thriller","artist":"Michael Jackson","year":1982,"genre":"Pop","difficulty":"medium"},
+  {"id":"s-16","title":"Shake It Off","artist":"Taylor Swift","year":2014,"genre":"Pop","difficulty":"easy"},
+  {"id":"s-17","title":"Stairway to Heaven","artist":"Led Zeppelin","year":1971,"genre":"Rock","difficulty":"hard"},
+  {"id":"s-18","title":"Don't Stop Believin'","artist":"Journey","year":1981,"genre":"Rock","difficulty":"medium"},
+  {"id":"s-19","title":"Watermelon Sugar","artist":"Harry Styles","year":2019,"genre":"Pop","difficulty":"easy"},
+  {"id":"s-20","title":"Perfect","artist":"Ed Sheeran","year":2017,"genre":"Pop","difficulty":"easy"}
+]
